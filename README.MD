@@ -10,7 +10,7 @@ De temps à autre, je fais des vidéos sur mon [YouTube](https://youtube.com/c/G
 Ces temps-ci, je développe [Threema For Desktop](https://github.com/GeekCornerGH/threema-for-desktop), un outil permettant d'avoir [Threema](https://threema.ch/), une messagerie suisse et alternative à WhatsApp, qui a le mérite d'être [open-source](https://github.com/threema-ch/) et sécurisée.
 
 ## Mes Skills
-Je développe principalement en JavaScript, et je fais aussi du HTML/CSS, mais j'aimerais apprendre un peu mieux le TypeScript.
+Je développe principalement en JavaScript, et je fais aussi du HTML/CSS, j'ai récemment commencé à apprendre le TypeScript.
 Je fais pas mal de [discord.js](https://discord.js.org), et j'ai récemment commencé avec [electron.js](https://electronjs.org).  
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekCornerGH&langs_count=10&theme=dark&layout=compact&hide_border=true)  
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=GeekCornerWT&theme=dark&hide_border=true)
@@ -31,7 +31,7 @@ Sometimes, I do videos on my [YouTube (french only)](https://youtube.com/c/GeekC
 These days, I am developing [Threema For Desktop](https://github.com/GeekCornerGH/threema-for-desktop), a tool allowing to have [Threema](https://threema.ch/), a Swiss messaging service and alternative to WhatsApp, which has the merit of being [open-source](https://github.com/threema-ch/) and secure.
 
 ## My Skills
-I mainly develop in JavaScript, and I also do HTML / CSS, but I would like to learn TypeScript a little better.
+I mainly develop in JavaScript, and I also do HTML / CSS, I recently started to learn TypeScript.
 I am coding regulary with [discord.js](https://discord.js.org), and I recently started learning [electron.js](https://electronjs.org).  
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekCornerGH&langs_count=10&theme=dark&layout=compact&hide_border=true)  
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=GeekCornerWT&theme=dark&hide_border=true)
