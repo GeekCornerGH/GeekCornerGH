@@ -4,7 +4,7 @@
 Je suis quelqu'un qui aime et qui a du plaisir à travailler avec les ordinateurs.
 De temps à autre, je fais des vidéos sur mon [YouTube](https://youtube.com/c/GeekCornerYT). Mais quand je n'en fais pas, je joue à des jeux vidéos, comme Minecraft, Roblox, Among Us, Fall Guys, PC Building Simulator parmis d'autre.
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GeekCornerGH&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GeekCornerGH&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
 [![Status Discord](https://lanyard.cnrad.dev/api/710836174050164757?theme=dark&animated=true&idleMessage=Actuellement%20indisponible)](https://discord.com/users/710836174050164757)
 
 ## Mes Projets
@@ -26,7 +26,7 @@ PS: Voici mon Discord:
 I am someone who likes and has fun working with computers.
 Sometimes, I do videos on my [YouTube (french only)](https://youtube.com/c/GeekCornerYT). But when I don't, I play video games, like Minecraft, Roblox, Among Us, Fall Guys, PC Building Simulator among others.  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GeekCornerGH&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=GeekCornerGH&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true)  
 [![Discord status](https://lanyard.cnrad.dev/api/710836174050164757?theme=dark&animated=true&idleMessage=Not%20avaliable%20for%20now)](https://discord.com/users/710836174050164757)
 
 ## My projects
