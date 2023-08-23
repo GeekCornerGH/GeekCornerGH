@@ -41,3 +41,6 @@ I am coding regulary with [discord.js](https://discord.js.org), and I recently s
 ## I wish you a nice day
 PS: Here is my Discord (french):  
 [![Discord](https://discord.com/api/guilds/714044475734753300/embed.png?style=banner3)](https://discord.gg/46zxhbK)
+
+
+[![Snake](https://raw.githubusercontent.com/GeekCornerGH/GeekCornerGH/snake/github-contribution-grid-snake-dark.svg)](https://raw.githubusercontent.com/GeekCornerGH/GeekCornerGH/snake/github-contribution-grid-snake-dark.svg)
