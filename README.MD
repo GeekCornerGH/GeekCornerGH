@@ -14,7 +14,6 @@ Ces temps-ci, je développe [Threema For Desktop](https://github.com/GeekCornerG
 Je développe principalement en JavaScript, et je fais aussi du HTML/CSS, j'ai récemment appris le TypeScript.
 Je fais pas mal de [discord.js](https://discord.js.org), et j'ai récemment commencé avec [electron.js](https://electronjs.org).  
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekCornerGH&langs_count=10&theme=dark&layout=compact&hide_border=true)  
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=GeekCornerWT&theme=dark&hide_border=true)](https://wakatime.com/GeekCornerWT)
 
 ## Je vous souhaite une bonne journée
 Et... à la prochaine 😉  
@@ -36,7 +35,6 @@ These days, I am developing [Threema For Desktop](https://github.com/GeekCornerG
 I mainly develop in JavaScript, and I also do HTML / CSS, I recently learned TypeScript.
 I am coding regulary with [discord.js](https://discord.js.org), and I recently started learning [electron.js](https://electronjs.org).  
 ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=GeekCornerGH&langs_count=10&theme=dark&layout=compact&hide_border=true)  
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=GeekCornerWT&theme=dark&hide_border=true)](https://wakatime.com/GeekCornerWT)
 
 ## I wish you a nice day
 PS: Here is my Discord (french):  
